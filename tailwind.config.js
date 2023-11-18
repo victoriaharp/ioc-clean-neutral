@@ -23,7 +23,7 @@ module.exports = {
       '9xl': ['8rem', '1'],
     },
     fontFamily: {
-      'sans': ['Roboto', 'sans-serif'],
+      'sans': ['Montserrat', 'sans-serif'],
       'serif': ['proxima-nova-condensed', 'ui-sans-serif'],
     },
     extend: {
@@ -59,6 +59,10 @@ module.exports = {
         'landscape': '3 / 2',
         'portrait-tall': '5/8',
         'portrait': '4/5',
+      },
+      colors: {
+        'grey': '#EAE6DE',
+        'brown': '#5e4432',
       },
     },
   },
